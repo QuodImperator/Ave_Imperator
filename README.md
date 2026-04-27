@@ -3,7 +3,7 @@
 
 - I’m currently working on [a portfolio site!](https://github.com/QuodImperator/Portfolio_site)
 
-- I’m currently learning **Full-stack development**
+- I’m currently learning **Embedded software development**
 
 - Reach me at **darkostefanoski951@gmail.com**
 
